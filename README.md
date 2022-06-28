@@ -15,3 +15,5 @@
   - Dizideki elemanlarda 5 sayısı var mı? (java.util.Arrays.binarySearch())
   - Dizide tekrar eden sayıları bir dizide göstrerelim?
   - Dizide tekrar eden sayılar yerine 1 kere tekrar sayısını göstersin (tekrarsız dizi elemanları)
+
+![array](https://user-images.githubusercontent.com/86284062/176239783-6c5a2119-5146-4238-a18a-b6e4d6da5b87.png)
