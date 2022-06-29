@@ -1,5 +1,5 @@
 # 6.hafta salı-çarsamba ödevi (28.06.2022)-(29.06.2022)
-1) Decoder de " " ve String yapısı
+1) String yapısı new ve " " yapısı
 2) MD5 nedir?
 3) SHA nedir?
 4) Proje ödevi:
