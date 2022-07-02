@@ -2,7 +2,12 @@
 1) String yapısı new ve " " yapısı
 2) MD5 nedir?
 3) SHA nedir?
-4) Proje ödevi:
+4) Synchronizaction nedir?
+5) Absolute path nedir?
+6) Relative path nedir?
+7) URL URI arasındaki farklar nelerdir?
+8) Video, resimlerde neden byte [] dizisi kullanılıyor?
+9) Proje ödevi:
   - Kullanıcıdan alınan sayı kadar dizi elemanı olsun rastgele 1-10 arasındaki bu sayıları bir diziye atayalım.
   - Sonra bu diziyi başka bir diziye clone edelim.
   - Clonelanmış bu dizi bu sayıları küçükten büyüğe doğru sıralayın (Arrays.sort())
@@ -18,3 +23,4 @@
 
 ![array](https://user-images.githubusercontent.com/86284062/176239783-6c5a2119-5146-4238-a18a-b6e4d6da5b87.png)
 ![array2](https://user-images.githubusercontent.com/86284062/176241912-5cd6c8c4-ef85-4ea8-b344-386278cf85cb.png)
+10) Proje ödevi: Verilen ödevi sınıftaki öğrencilerden birine random olarak veren algoritma.
