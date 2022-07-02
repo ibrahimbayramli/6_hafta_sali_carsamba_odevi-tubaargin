@@ -24,3 +24,4 @@
 ![array](https://user-images.githubusercontent.com/86284062/176239783-6c5a2119-5146-4238-a18a-b6e4d6da5b87.png)
 ![array2](https://user-images.githubusercontent.com/86284062/176241912-5cd6c8c4-ef85-4ea8-b344-386278cf85cb.png)
 10) Proje ödevi: Verilen ödevi sınıftaki öğrencilerden birine random olarak veren algoritma.
+![random](https://user-images.githubusercontent.com/86284062/177018728-1d6cc0ba-4be8-437f-a3a1-3cdabcd4cb0d.png)
